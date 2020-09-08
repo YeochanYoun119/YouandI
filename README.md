@@ -1,6 +1,5 @@
 # YouandI
-![](https://github.com/YeochanYoun119/YeochanYoun119.github.io/blob/master/assets/images/UNI.jpg)
-
+<img src="https://github.com/YeochanYoun119/YeochanYoun119.github.io/blob/master/assets/images/UNI.jpg" alt="Youn and I app" width="300" height="500">
 This is a all-in-one couple app that enables you and your partner to chat, share memories with photos, and count impoertant events like anniversary.
 
 # Feature
