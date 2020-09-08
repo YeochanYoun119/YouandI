@@ -83,7 +83,6 @@ public class MessageActivity extends AppCompatActivity {
                     messageModel.uid = uid;
                     messageModel.message = editText.getText().toString();
                     messageModel.timestamp = ServerValue.TIMESTAMP;
-
                     FirebaseDatabase.getInstance().getReference().child("chatrooms").child(chatRoomUid).child("messages").push().setValue(messageModel).addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {

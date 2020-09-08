@@ -103,7 +103,7 @@ public class HomeFragment extends Fragment {
                     long endDate = today.getTimeInMillis();
                     long diff = endDate - startDate;
                     int diffdays = (int) (diff / (1000*60*60*24));
-                    textView.setText((diffdays+1) + " days of love");
+                    textView.setText((diffdays+1) + " days");
                 }
             }
 
