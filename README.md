@@ -1,4 +1,5 @@
 # YouandI
+![](https://github.com/YeochanYoun119/YeochanYoun119.github.io/blob/master/assets/images/UNI.jpg)
 
 This is a all-in-one couple app that enables you and your partner to chat, share memories with photos, and count impoertant events like anniversary.
 
