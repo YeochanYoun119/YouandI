@@ -12,10 +12,8 @@ With this app, you can
 - Add markers on a map to see where you have visited with your partner.
 
 # How to use this source
-Since this application uses Google Firebase API, you need to get your own API key to launch the application.
-<br>
-Since this application uses Goggle Map API, you need to get your own API key to launch the application.
-
+Since this app uses Foofle Firebase and Google Map, you will need your own google API key.
+Put your API into mainfest and run the app
 # Libraries
 - [picasso](https://github.com/square/picasso) - for loading and caching images
 - [glide](https://github.com/bumptech/glide) - for loading and caching images
