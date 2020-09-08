@@ -1,15 +1,15 @@
 # YouandI
 <img src="https://github.com/YeochanYoun119/YeochanYoun119.github.io/blob/master/assets/images/UNI.jpg" alt="Youn and I app" width="300" height="500">
-This is a all-in-one couple app that enables you and your partner to chat, share memories with photos, and count impoertant events like anniversary.
+Android app for couples to privately share photos, chat, track visited places and plan events
 
 # Feature
 
 With this app, you can
-- Chat with your partner in real time.
-- Add photos of your memories.
-- Add calendar events.
-- Check how long you have been dating.
-- Add markers on a map to see where you have visited with your partner.
+- Chat with your partner in real time
+- Add and share photos with partner
+- Add events on calendar
+- Count days of dating 
+- Add markers on a map to see where you have visited with your partner
 
 # How to use this source
 Since this app uses Firebase and Google Map, you will need your own google API key. Please follow the steps below.
