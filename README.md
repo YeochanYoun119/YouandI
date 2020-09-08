@@ -12,7 +12,7 @@ With this app, you can
 - Add markers on a map to see where you have visited with your partner.
 
 # How to use this source
-Since this app uses Firebase and Google Map, you will need your own google API key. Follow the step below.
+Since this app uses Firebase and Google Map, you will need your own google API key. Please follow the steps below.
 
 - Go to YouandI/app/src/main/AndroidManifest.xml
 - Scoll down to meta data part
