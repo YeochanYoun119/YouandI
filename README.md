@@ -12,8 +12,8 @@ With this app, you can
 - Add markers on a map to see where you have visited with your partner.
 
 # How to use this source
-Since this app uses Foofle Firebase and Google Map, you will need your own google API key.
-Put your API into mainfest and run the app
+Since this app uses Firebase and Google Map, you will need your own google API key. Follow the step below.
+
 - Go to YouandI/app/src/main/AndroidManifest.xml
 - Scoll down to meta data part
 ```
