@@ -3,9 +3,6 @@ Android app for couples to privately share photos, chat, track visited places an
 
 <img src="https://github.com/YeochanYoun119/YeochanYoun119.github.io/blob/master/assets/images/UNI.jpg" alt="Youn and I app" width="300" height="500">
 
-![image](https://github.com/YeochanYoun119/YouandI/assets/55899121/fa77aad9-5d66-491f-a4cd-493bfcc259cb)
-
-
 # Feature
 
 With this app, you can
@@ -14,6 +11,8 @@ With this app, you can
 - Add events on calendar
 - Count days of dating 
 - Add markers on a map to see where you have visited with your partner
+  
+![image](https://github.com/YeochanYoun119/YouandI/assets/55899121/fa77aad9-5d66-491f-a4cd-493bfcc259cb)
 
 # How to use this source
 Since this app uses Firebase and Google Map, you will need your own google API key. Please follow the steps below.
