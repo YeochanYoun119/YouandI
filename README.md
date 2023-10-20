@@ -2,6 +2,8 @@
 <img src="https://github.com/YeochanYoun119/YeochanYoun119.github.io/blob/master/assets/images/UNI.jpg" alt="Youn and I app" width="300" height="500">
 Android app for couples to privately share photos, chat, track visited places and plan events
 
+![image](https://github.com/YeochanYoun119/YouandI/assets/55899121/398689af-0723-4cfb-aa37-0711f006426a)
+
 # Feature
 
 With this app, you can
